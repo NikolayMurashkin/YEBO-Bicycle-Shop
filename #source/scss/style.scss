@@ -279,7 +279,7 @@ body {
 		& .right-column {
 			flex: 1 0 66.666%;
 			& .boroisa__right-img {
-				background: url("img/boroisa/2.jpg") center center/cover no-repeat;
+				background: url("/img/boroisa/2.jpg") center center/cover no-repeat;
 				display: flex;
 				flex-direction: column;
 				justify-content: center;
@@ -306,7 +306,7 @@ body {
 				display: flex;
 				align-self: stretch;
 				flex: 1 0 auto;
-				background: url("img/retro/1.jpg") center center/cover no-repeat;
+				background: url("/img/retro/1.jpg") center center/cover no-repeat;
 				& img {
 					margin: auto;
 				}
