@@ -92,7 +92,7 @@ body {
 
 .hero {
 	min-height: 100vh;
-	background: url("img/hero_bg.jpg") center center/cover no-repeat;
+	background: url("/img/hero_bg.jpg") center center/cover no-repeat;
 	& .hero__row {
 		display: flex;
 		justify-content: center;
@@ -169,7 +169,7 @@ body {
 				justify-content: center;
 				align-items: center;
 				flex: 1 1 auto;
-				background: url("img/vintage/1.jpg") center center/cover no-repeat;
+				background: url("/img/vintage/1.jpg") center center/cover no-repeat;
 				min-height: 600px;
 			}
 			& .vintage__body {
