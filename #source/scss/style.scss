@@ -92,7 +92,7 @@ body {
 
 .hero {
 	min-height: 100vh;
-	background: url("/img/hero_bg.jpg") center center/cover no-repeat;
+	background: url("../img/hero_bg.jpg") center center/cover no-repeat;
 	& .hero__row {
 		display: flex;
 		justify-content: center;
@@ -306,7 +306,7 @@ body {
 				display: flex;
 				align-self: stretch;
 				flex: 1 0 auto;
-				background: url("/img/retro/1.jpg") center center/cover no-repeat;
+				background: url("../img/retro/1.jpg") center center/cover no-repeat;
 				& img {
 					margin: auto;
 				}
